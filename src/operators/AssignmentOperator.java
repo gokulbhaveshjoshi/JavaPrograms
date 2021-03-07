@@ -20,6 +20,6 @@ public class AssignmentOperator {
 		System.out.println("%=: "+ (a%=b));  // a%=b => a = a%b
 		
 
-	}
+	} 
 
 }
