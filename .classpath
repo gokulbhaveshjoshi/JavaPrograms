@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Introduction"/>
 	<classpathentry kind="src" path="Abstraction"/>
+	<classpathentry kind="src" path="Encapsulation"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
